@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/animatePresence-LayoutId/static/js/main.e6185988.chunk.js",
+    "main.js.map": "/animatePresence-LayoutId/static/js/main.e6185988.chunk.js.map",
+    "runtime-main.js": "/animatePresence-LayoutId/static/js/runtime-main.a9e5438b.js",
+    "runtime-main.js.map": "/animatePresence-LayoutId/static/js/runtime-main.a9e5438b.js.map",
+    "static/js/2.89bae585.chunk.js": "/animatePresence-LayoutId/static/js/2.89bae585.chunk.js",
+    "static/js/2.89bae585.chunk.js.map": "/animatePresence-LayoutId/static/js/2.89bae585.chunk.js.map",
+    "index.html": "/animatePresence-LayoutId/index.html",
+    "static/js/2.89bae585.chunk.js.LICENSE.txt": "/animatePresence-LayoutId/static/js/2.89bae585.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9e5438b.js",
+    "static/js/2.89bae585.chunk.js",
+    "static/js/main.e6185988.chunk.js"
+  ]
+}
